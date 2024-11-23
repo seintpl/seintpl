@@ -7,8 +7,9 @@
 My repos here contain OSINT tools, cheatsheets, quizzes, and links of my articles on OSINT/Social Engineering.
 
 ### 🌐 You can also find me on:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/seint_pl)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/seint_pl)
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://infosec.exchange/@SEINT)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/seint.pl)
 
 or you can email me at: theseint[at]pm.me
 
